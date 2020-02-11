@@ -13,7 +13,7 @@ Collection of the Awesome™ Go libraries, tools, project around performance.
 - [Other](#other)
 
 ## Assembly
-- [atomics](https://github.com/CAFxX/atomics) - All the missing AMD64 atomic instructions
+- [CAFxX/atomics](https://github.com/CAFxX/atomics) - All the missing AMD64 atomic instructions
 
 ## Benchmarks
 - [benchstat](https://godoc.org/golang.org/x/perf/cmd/benchstat) - Benchstat computes and compares statistics about benchmarks.
