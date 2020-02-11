@@ -2,19 +2,18 @@
 
 Collection of the Awesome™ Go libraries, tools, project around performance.
 
-### Contents
+## Contents
 
-- Assembly (#assembly)
-- Benchmarks (#benchmarks)
-  - go-benchrun
-- Marh (#math)
-- Profiling (#profiling)
+- [Assembly](#assembly)
+- [Benchmarks](#benchmarks)
+- [Math](#math)
+- [Profiling](#profiling)
 
-### Assembly
+## Assembly
 
-### Benchmarks
+## Benchmarks
 - [go-benchrun](https://github.com/quasilyte/go-benchrun) - Convenience wrapper around "go test" + "benchstat"
 
-### Marh
+## Math
 
-### Profiling
+## Profiling
