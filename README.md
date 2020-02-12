@@ -25,6 +25,8 @@ Collection of the Awesome™ Go libraries, tools, project around performance.
 
 ## Profiling
 
+- [profefe](https://github.com/profefe/profefe) - Continuous profiling data collecting
+
 ## Testing
 
 ## Other
