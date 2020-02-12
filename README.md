@@ -7,6 +7,7 @@ Collection of the Awesome™ Go libraries, tools, project around performance.
 - [Assembly](#assembly)
 - [Benchmarks](#benchmarks)
 - [Concurrency](#concurrency)
+- [Hardware](#hardware)
 - [Math](#math)
 - [Profiling](#profiling)
 - [Storage](#storage)
@@ -24,6 +25,10 @@ Collection of the Awesome™ Go libraries, tools, project around performance.
 - [go-benchrun](https://github.com/quasilyte/go-benchrun) - Convenience wrapper around "go test" + "benchstat".
 
 ## Concurrency
+
+## Hardware
+
+- [klauspost/cpuid](https://github.com/klauspost/cpuid) - Provides information about the CPU running the current program.
 
 ## Math
 
