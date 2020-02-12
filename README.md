@@ -10,6 +10,7 @@ Collection of the Awesome™ Go libraries, tools, project around performance.
 - [Math](#math)
 - [Profiling](#profiling)
 - [Testing](#testing)
+- [Articles](#articles)
 - [Other](#other)
 
 ## Assembly
@@ -28,5 +29,8 @@ Collection of the Awesome™ Go libraries, tools, project around performance.
 - [profefe](https://github.com/profefe/profefe) - Continuous profiling data collecting
 
 ## Testing
+
+## Articles
+- [The official HOW-TO on app diagnostics](https://golang.org/doc/diagnostics.html)
 
 ## Other
