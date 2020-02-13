@@ -44,7 +44,7 @@ Collection of the Awesome™ Go libraries, tools, project around performance.
 
 ## Articles
 
-- [Debugging performance issues in Go programs by Dmitry Vyukov](https://software.intel.com/en-us/blogs/2014/05/10/debugging-performance-issues-in-go-programs);
+- [Debugging performance issues in Go programs by Dmitry Vyukov (2014)](https://software.intel.com/en-us/blogs/2014/05/10/debugging-performance-issues-in-go-programs);
 - [The official HOW-TO on app diagnostics](https://golang.org/doc/diagnostics.html);
 
 ## Other
