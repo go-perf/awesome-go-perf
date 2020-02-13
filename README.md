@@ -17,7 +17,7 @@ Collection of the Awesome™ Go libraries, tools, project around performance.
 
 ## Assembly
 
-- [CAFxX/atomics](https://github.com/CAFxX/atomics) - All the missing AMD64 atomic instructions
+- [CAFxX/atomics](https://github.com/CAFxX/atomics) - All the missing AMD64 atomic instructions.
 
 ## Benchmarks
 
@@ -35,11 +35,11 @@ Collection of the Awesome™ Go libraries, tools, project around performance.
 
 ## Profiling
 
-- [profefe](https://github.com/profefe/profefe) - Continuous profiling data collecting
+- [profefe](https://github.com/profefe/profefe) - Continuous profiling data collecting.
 
 ## Storage
 
-- [stringbank](https://github.com/philpearl/stringbank) - Storing strings without GC overhead
+- [stringbank](https://github.com/philpearl/stringbank) - Storing strings without GC overhead.
 
 ## Testing
 
