@@ -25,6 +25,7 @@ Collection of the Awesome™ Go libraries, tools, project around performance.
 - [go-benchrun](https://github.com/quasilyte/go-benchrun) - Convenience wrapper around "go test" + "benchstat".
 
 ## Concurrency
+- [grmon](https://github.com/bcicen/grmon) - Command line monitoring for goroutines.
 
 ## Hardware
 
