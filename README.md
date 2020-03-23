@@ -8,6 +8,7 @@ Collection of the Awesome™ Go libraries, tools, project around performance.
 - [Benchmarks](#benchmarks)
 - [Concurrency](#concurrency)
 - [Hardware](#hardware)
+- [I/O](#io)
 - [Math](#math)
 - [Profiling](#profiling)
 - [Storage](#storage)
@@ -32,6 +33,10 @@ Collection of the Awesome™ Go libraries, tools, project around performance.
 ## Hardware
 
 - [klauspost/cpuid](https://github.com/klauspost/cpuid) - Provides information about the CPU running the current program.
+
+## IO
+
+- [preallocate](https://github.com/smallnest/preallocate) - File preallocation library
 
 ## Math
 
