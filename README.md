@@ -7,6 +7,7 @@ Collection of the Awesome™ Go libraries, tools, project around performance.
 - [Assembly](#assembly)
 - [Benchmarks](#benchmarks)
 - [Concurrency](#concurrency)
+- [GC](#GC)
 - [Hardware](#hardware)
 - [I/O](#io)
 - [Math](#math)
@@ -29,6 +30,10 @@ Collection of the Awesome™ Go libraries, tools, project around performance.
 
 - [grmon](https://github.com/bcicen/grmon) - Command line monitoring for goroutines.
 - [drwmutex](https://github.com/jonhoo/drwmutex) - Distributed RWMutex in Go.
+
+## GC
+
+- [gcnotifier](https://github.com/CAFxX/gcnotifier) - Know when GC runs from inside your golang code.
 
 ## Hardware
 
@@ -54,6 +59,5 @@ Collection of the Awesome™ Go libraries, tools, project around performance.
 
 - [The official HOW-TO on app diagnostics](https://golang.org/doc/diagnostics.html).
 - [Debugging performance issues in Go programs by Dmitry Vyukov (2014)](https://software.intel.com/en-us/blogs/2014/05/10/debugging-performance-issues-in-go-programs).
-
 
 ## Other
