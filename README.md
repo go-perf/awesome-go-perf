@@ -45,6 +45,8 @@ Collection of the Awesome™ Go libraries, tools, project around performance.
 
 ## Math
 
+- [fastdiv](https://github.com/bmkessler/fastdiv) - Fast division, modulus and divisibility checks in Go for divisors known only at runtime.
+
 ## Profiling
 
 - [profefe](https://github.com/profefe/profefe) - Continuous profiling data collecting.
