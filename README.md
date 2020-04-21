@@ -11,6 +11,7 @@ Collection of the Awesome™ Go libraries, tools, project around performance.
 - [Hardware](#hardware)
 - [I/O](#io)
 - [Math](#math)
+- [Network](#network)
 - [Profiling](#profiling)
 - [Storage](#storage)
 - [Testing](#testing)
@@ -46,6 +47,10 @@ Collection of the Awesome™ Go libraries, tools, project around performance.
 ## Math
 
 - [fastdiv](https://github.com/bmkessler/fastdiv) - Fast division, modulus and divisibility checks in Go for divisors known only at runtime.
+
+## Network
+
+- [fasthttp](https://github.com/valyala/fasthttp) - Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http.
 
 ## Profiling
 
