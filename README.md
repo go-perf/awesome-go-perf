@@ -7,6 +7,7 @@ Collection of the Awesome™ Go libraries, tools, project around performance.
 - [Assembly](#assembly)
 - [Benchmarks](#benchmarks)
 - [Concurrency](#concurrency)
+- [Crypto](#crypto)
 - [GC](#GC)
 - [Hardware](#hardware)
 - [I/O](#io)
@@ -31,6 +32,10 @@ Collection of the Awesome™ Go libraries, tools, project around performance.
 
 - [grmon](https://github.com/bcicen/grmon) - Command line monitoring for goroutines.
 - [drwmutex](https://github.com/jonhoo/drwmutex) - Distributed RWMutex in Go.
+
+## Crypto
+
+- [md5-simd](https://github.com/minio/md5-simd) - Accelerate aggregated MD5 hashing performance up to 8x for AVX512 and 4x for AVX2.
 
 ## GC
 
