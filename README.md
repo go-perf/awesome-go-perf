@@ -61,6 +61,7 @@ Collection of the Awesome™ Go libraries, tools, project around performance.
 
 - [profefe](https://github.com/profefe/profefe) - Continuous profiling data collecting.
 - [google/pprof](https://github.com/google/pprof) - pprof is a tool for visualization and analysis of profiling data.
+- [felixge/fgprof](https://github.com/felixge/fgprof) - a sampling Go profiler that allows you to analyze On-CPU as well as Off-CPU (e.g. I/O) time together.
 
 ## Storage
 
