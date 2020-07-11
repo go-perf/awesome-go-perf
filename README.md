@@ -4,11 +4,12 @@ Collection of the Awesome™ Go libraries, tools, project around performance.
 
 ## Contents
 
+- [Algorithm](#algorithm)
 - [Assembly](#assembly)
 - [Benchmarks](#benchmarks)
 - [Concurrency](#concurrency)
 - [Crypto](#crypto)
-- [GC](#GC)
+- [GC](#gc)
 - [Hardware](#hardware)
 - [I/O](#io)
 - [Math](#math)
@@ -18,6 +19,10 @@ Collection of the Awesome™ Go libraries, tools, project around performance.
 - [Testing](#testing)
 - [Articles](#articles)
 - [Other](#other)
+
+## Algorithm
+
+- [shawnsmithdev/zermelo](https://github.com/shawnsmithdev/zermelo) - A radix sorting library for Go.
 
 ## Assembly
 
