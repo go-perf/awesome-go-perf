@@ -81,3 +81,5 @@ Collection of the Awesome™ Go libraries, tools, project around performance.
 - [Debugging performance issues in Go programs by Dmitry Vyukov (2014)](https://software.intel.com/en-us/blogs/2014/05/10/debugging-performance-issues-in-go-programs).
 
 ## Other
+
+- [templexxx/tsc](https://github.com/templexxx/tsc) - Get unix time (nanoseconds) in 8ns, 10x faster than stdlib.
