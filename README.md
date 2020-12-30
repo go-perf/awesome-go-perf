@@ -7,6 +7,7 @@ Collection of the Awesome™ Go libraries, tools, project around performance.
 - [Algorithm](#algorithm)
 - [Assembly](#assembly)
 - [Benchmarks](#benchmarks)
+- [Compiling](#compiling)
 - [Concurrency](#concurrency)
 - [Crypto](#crypto)
 - [GC](#gc)
@@ -33,6 +34,10 @@ Collection of the Awesome™ Go libraries, tools, project around performance.
 
 - [benchstat](https://godoc.org/golang.org/x/perf/cmd/benchstat) - Benchstat computes and compares statistics about benchmarks.
 - [go-benchrun](https://github.com/quasilyte/go-benchrun) - Convenience wrapper around "go test" + "benchstat".
+
+## Compiling
+
+- [gcassert](https://github.com/jordanlewis/gcassert) - Assert your Go code is inlined and bounds-check eliminated.
 
 ## Concurrency
 
