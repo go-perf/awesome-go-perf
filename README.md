@@ -12,6 +12,7 @@ Collection of the Awesome™ Go libraries, tools, project around performance.
 - [Crypto](#crypto)
 - [GC](#gc)
 - [Hardware](#hardware)
+- [Hash](#hash)
 - [I/O](#io)
 - [Math](#math)
 - [Network](#network)
@@ -55,6 +56,9 @@ Collection of the Awesome™ Go libraries, tools, project around performance.
 ## Hardware
 
 - [klauspost/cpuid](https://github.com/klauspost/cpuid) - Provides information about the CPU running the current program.
+
+## Hash
+
 
 ## IO
 
