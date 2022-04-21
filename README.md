@@ -71,8 +71,9 @@ Collection of the Awesome™ Go libraries, tools, project around performance.
 ## Network
 
 - [fasthttp](https://github.com/valyala/fasthttp) - Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http.
-- [gnet](https://github.com/panjf2000/gnet) - high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go. Ranks #10 in TechEmpower Plaintext Benchmark, beating all other go frameworks.
 - [fiber](https://github.com/gofiber/fiber) - Fiber is an Express inspired web framework built on top of Fasthttp, the fastest HTTP engine for Go. Designed to ease things up for fast development with zero memory allocation and performance in mind.
+- [gnet](https://github.com/panjf2000/gnet) - high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go. Ranks #10 in TechEmpower Plaintext Benchmark, beating all other go frameworks.
+
 
 ## Profiling
 
