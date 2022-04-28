@@ -81,6 +81,7 @@ Collection of the Awesome™ Go libraries, tools, project around performance.
 - [google/pprof](https://github.com/google/pprof) - pprof is a tool for visualization and analysis of profiling data.
 - [felixge/fgprof](https://github.com/felixge/fgprof) - a sampling Go profiler that allows you to analyze On-CPU as well as Off-CPU (e.g. I/O) time together.
 - [parca](https://parca.dev) - Parca is a continuous profiling project for applications and infrastructure, built with Go for Go.
+- [pyroscope](https://pyroscope.io/) - A modern open source continuous profiling platform for debugging Go performance issues down to a single line of code. 
 
 ## Storage
 
