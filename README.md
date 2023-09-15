@@ -94,6 +94,7 @@ Collection of the Awesome™ Go libraries, tools, project around performance.
 - [The official HOW-TO on app diagnostics](https://golang.org/doc/diagnostics.html).
 - [Debugging performance issues in Go programs by Dmitry Vyukov (2014)](https://archive.is/TIkLM).
 - [Go Wiki: Compiler And Runtime Optimizations](https://github.com/golang/go/wiki/CompilerOptimizations)
+- [High Performance Go workshop by Dave Cheney (2019)](https://dave.cheney.net/high-performance-go-workshop/sydney-2019.html)
 
 ## Other
 
