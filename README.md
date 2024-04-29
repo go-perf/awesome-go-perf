@@ -8,6 +8,7 @@ Collection of the Awesome™ Go libraries, tools, project around performance.
 - [Assembly](#assembly)
 - [Benchmarks](#benchmarks)
 - [Compiling](#compiling)
+- [Compression](#compression)
 - [Concurrency](#concurrency)
 - [Crypto](#crypto)
 - [GC](#gc)
@@ -33,25 +34,29 @@ Collection of the Awesome™ Go libraries, tools, project around performance.
 
 ## Benchmarks
 
-- [benchstat](https://godoc.org/golang.org/x/perf/cmd/benchstat) - Benchstat computes and compares statistics about benchmarks.
-- [go-benchrun](https://github.com/quasilyte/go-benchrun) - Convenience wrapper around "go test" + "benchstat".
+- [x/perf/cmd/benchstat](https://pkg.go.dev/golang.org/x/perf/cmd/benchstat) - Benchstat computes statistical summaries and A/B comparisons of Go benchmarks.
+- [storozhukBM/benchart](https://github.com/storozhukBM/benchart) - Tool that takes `benchstat -csv` output as an input and plots results of your benchmark in a html file.
+- [quasilyte/go-benchrun](https://github.com/quasilyte/go-benchrun) - Convenience wrapper around "go test" + "benchstat".
 
 ## Compiling
 
-- [gcassert](https://github.com/jordanlewis/gcassert) - Assert your Go code is inlined and bounds-check eliminated.
+- [jordanlewis/gcassert](https://github.com/jordanlewis/gcassert) - Assert your Go code is inlined and bounds-check eliminated.
+
+## Compression
+
+- [klauspost/compress](https://github.com/klauspost/compress) - Optimized Go Compression Packages.
+- [pierrec/lz4](https://github.com/pierrec/lz4) - LZ4 compression and decompression in pure Go.
 
 ## Concurrency
 
-- [grmon](https://github.com/bcicen/grmon) - Command line monitoring for goroutines.
-- [drwmutex](https://github.com/jonhoo/drwmutex) - Distributed RWMutex in Go.
+- [bcicen/grmon](https://github.com/bcicen/grmon) - Command line monitoring for goroutines.
+- [jonhoo/drwmutex](https://github.com/jonhoo/drwmutex) - Distributed RWMutex in Go.
 
 ## Crypto
 
-- [md5-simd](https://github.com/minio/md5-simd) - Accelerate aggregated MD5 hashing performance up to 8x for AVX512 and 4x for AVX2.
-
 ## GC
 
-- [gcnotifier](https://github.com/CAFxX/gcnotifier) - Know when GC runs from inside your golang code.
+- [CAFxX/gcnotifier](https://github.com/CAFxX/gcnotifier) - Know when GC runs from inside your golang code.
 
 ## Hardware
 
@@ -59,19 +64,21 @@ Collection of the Awesome™ Go libraries, tools, project around performance.
 
 ## Hash
 
+- [minio/md5-simd](https://github.com/minio/md5-simd) - Accelerate aggregated MD5 hashing performance up to 8x for AVX512 and 4x for AVX2.
+- [zeebo/xxh3](https://github.com/zeebo/xxh3) - XXH3 algorithm in Go.
 
 ## IO
 
-- [preallocate](https://github.com/smallnest/preallocate) - File preallocation library
+- [ncw/directio](github.com/ncw/directio) - This is library for the Go language to enable use of Direct IO under all OSes.
+- [smallnest/preallocate](https://github.com/smallnest/preallocate) - File preallocation library.
 
 ## Math
 
-- [fastdiv](https://github.com/bmkessler/fastdiv) - Fast division, modulus and divisibility checks in Go for divisors known only at runtime.
+- [bmkessler/fastdiv](https://github.com/bmkessler/fastdiv) - Fast division, modulus and divisibility checks in Go for divisors known only at runtime.
 
 ## Network
 
-- [fasthttp](https://github.com/valyala/fasthttp) - Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http.
-- [fiber](https://github.com/gofiber/fiber) - Fiber is an Express inspired web framework built on top of Fasthttp, the fastest HTTP engine for Go. Designed to ease things up for fast development with zero memory allocation and performance in mind.
+- [valyala/fasthttp](https://github.com/valyala/fasthttp) - Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http.
 - [gnet](https://github.com/panjf2000/gnet) - high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go. Ranks #10 in TechEmpower Plaintext Benchmark, beating all other go frameworks.
 
 
@@ -85,7 +92,7 @@ Collection of the Awesome™ Go libraries, tools, project around performance.
 
 ## Storage
 
-- [stringbank](https://github.com/philpearl/stringbank) - Storing strings without GC overhead.
+- [philpearl/stringbank](https://github.com/philpearl/stringbank) - Storing strings without GC overhead.
 
 ## Testing
 
