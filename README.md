@@ -29,6 +29,7 @@ Collection of the Awesome™ Go libraries, tools, project around performance.
 
 ## Assembly
 
+- [go/doc/asm](https://go.dev/doc/asm) - A Quick Guide to Go's Assembler.
 - [mmcloughlin/avo](https://github.com/mmcloughlin/avo) - Generate x86 Assembly with Go.
 - [CAFxX/atomics](https://github.com/CAFxX/atomics) - All the missing AMD64 atomic instructions.
 
